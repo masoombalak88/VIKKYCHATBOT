@@ -1,7 +1,7 @@
 {
   "name": "VIKKYCHAT-BOT",
   "description": "A TELEGRAM CHAT BOT.",
-  "logo": "https://graph.org/file/826485f2d7db6f09db8ed.jpg",
+  "logo": "https://telegra.ph/file/480cb450b3a545866ee82.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -36,7 +36,7 @@
     "OWNER_ID": {
       "description": "User id of the user who will known as owner of the bot.",
       "required": true,
-      "value": "6922271843"
+      "value": "7299227823"
     }
   }
 }
