@@ -1,1 +1,1 @@
-worker: python3 -m VIKKY 
+worker: bash start
