@@ -10,7 +10,7 @@ from config import EMOJIOS, IMG, STICKER
 from VIKKY import BOT_NAME, DKPV, dev
 from VIKKY.database.chats import add_served_chat
 from VIKKY.database.users import add_served_user
-from comfig import OWNER_USERNAME
+from config import OWNER_USERNAME
 from VIKKY.modules.helpers import (
     CLOSE_BTN,
     DEV_OP,
